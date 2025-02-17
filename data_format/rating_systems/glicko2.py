@@ -3,7 +3,7 @@ import math
 from datetime import datetime, timedelta
 from dateutil.relativedelta import relativedelta
 
-START_RATING = 1500
+START_RATING = 2200
 RATING_SCALE = 173.7178  # Scaling factor to convert Glicko-2 rating to traditional rating scale
 RD_START = 350
 TAU = .6  # System constant
