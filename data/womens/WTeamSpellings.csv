@@ -241,7 +241,7 @@ east carolina,3187
 east tenn. st.,3190
 east tennessee st.,3190
 east tennessee state,3190
-East Texas A&M,3477
+east texas a&m,3477
 east-carolina,3187
 east-tennessee-state,3190
 eastern ill.,3183
@@ -270,7 +270,7 @@ f dickinson,3192
 fairfield,3193
 fairleigh dickinson,3192
 fairleigh-dickinson,3192
-FDU,3192
+fdu,3192
 fgcu,3195
 fiu,3198
 fl atlantic,3194
@@ -348,7 +348,7 @@ houston,3222
 houston bap,3223
 houston baptist,3223
 houston chr,3223
-Houston Christian,3223
+houston christian,3223
 houston-baptist,3223
 howard,3224
 idaho,3225
@@ -384,8 +384,8 @@ iowa state,3235
 iowa-st,3235
 iowa-state,3235
 ipfw,3236
-IU Indianapolis,3237
-IU Indy,3237
+iu indianapolis,3237
+iu indy,3237
 iupu - ft. wayne,3236
 iupu-fort wayne,3236
 iupu-fort-wayne,3236
@@ -404,7 +404,7 @@ jacksonville-state,3240
 james madison,3241
 james-madison,3241
 kansas,3242
-Kansas City,3282
+kansas city,3282
 kansas st,3243
 kansas st.,3243
 kansas state,3243
@@ -437,7 +437,7 @@ lindenwood,3473
 lipscomb,3252
 little rock,3114
 little-rock,3114
-LIU,3254
+liu,3254
 liu brooklyn,3254
 liu-brooklyn,3254
 long beach st,3253
@@ -481,6 +481,7 @@ marquette,3266
 marshall,3267
 maryland,3268
 maryland - e. shore,3271
+maryland eastern shore,3271
 maryland-baltimore county,3420
 maryland-baltimore-county,3420
 maryland-eastern shore,3271
@@ -499,7 +500,7 @@ md e shore,3271
 md. eastern shore,3271
 memphis,3272
 mercer,3273
-Mercyhurst,3479
+mercyhurst,3479
 merrimack,3467
 miami (fl),3274
 miami (fla.),3274
@@ -760,7 +761,7 @@ princeton,3343
 providence,3344
 purdue,3345
 purdue fort wayne,3236
-Queens (NC),3474
+queens (nc),3474
 queens nc,3474
 quinnipiac,3346
 radford,3347
@@ -788,14 +789,12 @@ saint francis (pa),3384
 saint john`s,3385
 saint joseph's,3386
 saint joseph`s,3386
-saint joseph’s,3386
 saint louis,3387
 saint mary's,3388
 saint mary's (ca),3388
 saint mary`s,3388
 saint peter's,3389
 saint peter`s,3389
-saint peter’s,3389
 saint thomas (minn.),3472
 saint-francis-pa,3384
 saint-josephs,3386
@@ -944,13 +943,13 @@ st. francis-ny,3383
 st. john's,3385
 st. john's (ny),3385
 st. john`s (ny),3385
-st. john’s,3385
 st. joseph's,3386
 st. joseph's pa,3386
 st. mary's,3388
+st. mary's (ca),3388
 st. mary`s (ca),3388
 st. peter's,3389
-St. Thomas,3472
+st. thomas,3472
 stanford,3390
 stephen f. austin,3372
 stephen-f-austin,3372
@@ -984,6 +983,7 @@ texas a&m,3401
 texas a&m cc,3394
 texas a&m corpus,3394
 texas a&m-cc,3394
+texas a&m-commerce,3477
 texas a&m-corpus christi,3394
 texas arlington,3426
 texas christian,3395
@@ -1032,7 +1032,7 @@ uc santa barbara,3364
 uc-davis,3413
 uc-irvine,3414
 uc-riverside,3415
-UC-San Diego,3471
+uc-san diego,3471
 uc-santa barbara,3364
 uc-santa-barbara,3364
 ucf,3416
@@ -1113,7 +1113,7 @@ weber st.,3451
 weber state,3451
 weber-st,3451
 weber-state,3451
-West Georgia,3480
+west georgia,3480
 west texas a&m,3446
 west virginia,3452
 west-virginia,3452
