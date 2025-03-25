@@ -8,7 +8,7 @@ Beyond pure ratings I also employed relative ratings for Offensive/Defensive eff
 
 After computing team averages, ratings, strengths, as well as seeding differential, I used an XGBoost model training on point differential, as simple W/L results 1/0, don't show how close an outcome was. From there we can then clip our predictions into probabilities.
 
-<img src="https://github.com/dsw225/March-Machine-Learning-Mania-2025/tree/main/imgs/mens_curve.png?raw=true" alt="spread" width="550">
+<img src="https://github.com/dsw225/March-Machine-Learning-Mania-2025/blob/main/imgs/mens_curve.png?raw=true" alt="spread" width="550">
 Above is the mens predicted point spread vs. win rate
 
 While the tournament is still currently underway, there are a few improvements I would have made had I had more time. In years past, most winners have won by using overrides on strong teams to win, and while I made use of this on one of my submissions (Duke), I didn't force through other teams. If I had forced 100% proababilities for more teams in the 2nd/3rd round in which I was confident (Houston/Florida), I could've lowered my brier score. 
