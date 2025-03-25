@@ -11,6 +11,7 @@ After computing team averages, ratings, strengths, as well as seeding differenti
 <img src="https://github.com/dsw225/March-Machine-Learning-Mania-2025/blob/main/imgs/mens_curve.png?raw=true" alt="spread" width="550">
 Above is the mens predicted point spread vs. win rate
 
+
 While the tournament is still currently underway, there are a few improvements I would have made had I had more time. In years past, most winners have won by using overrides on strong teams to win, and while I made use of this on one of my submissions (Duke), I didn't force through other teams. If I had forced 100% proababilities for more teams in the 2nd/3rd round in which I was confident (Houston/Florida), I could've lowered my brier score. 
 
 Another factor which I wanted to implement but was short on time was that of further matchups. IE. While a 14 seed is unlikely to beat a 3, if victorious, their rating/strength (the 14 seed), should be adjusted for that win preemptively. Since games that don't occur aren't considered in our score, adjusting percentages or each teams ratings as if they had defeated the stronger team in the next round matchup could potentially reduce total brier score.
