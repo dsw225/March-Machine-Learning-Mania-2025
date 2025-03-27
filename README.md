@@ -1,4 +1,4 @@
-# 2025 March Madness Predictice Model
+# 2025 March Madness Predictive Model
 
 The goal of this project was to minimize total brier score of outcomes for the 2025 NCAA March Madness Tournaments in hopes of winning [this kaggle competition.](https://www.kaggle.com/competitions/march-machine-learning-mania-2025)
 
